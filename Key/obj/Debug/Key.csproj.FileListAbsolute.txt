@@ -1,0 +1,7 @@
+F:\Key\Key\bin\Debug\Key.exe.config
+F:\Key\Key\bin\Debug\Key.exe
+F:\Key\Key\bin\Debug\Key.pdb
+F:\Key\Key\obj\Debug\Key.csproj.AssemblyReference.cache
+F:\Key\Key\obj\Debug\Key.csproj.CoreCompileInputs.cache
+F:\Key\Key\obj\Debug\Key.exe
+F:\Key\Key\obj\Debug\Key.pdb
